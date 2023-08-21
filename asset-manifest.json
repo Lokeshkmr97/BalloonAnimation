@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BalloonAnimation/static/css/main.c84896bb.css",
+    "main.js": "/BalloonAnimation/static/js/main.d51f5590.js",
+    "index.html": "/BalloonAnimation/index.html",
+    "main.c84896bb.css.map": "/BalloonAnimation/static/css/main.c84896bb.css.map",
+    "main.d51f5590.js.map": "/BalloonAnimation/static/js/main.d51f5590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c84896bb.css",
+    "static/js/main.d51f5590.js"
+  ]
+}
